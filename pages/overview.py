@@ -129,7 +129,7 @@ def render(base_dir: str):
                 </tr>
                 <tr style='border-bottom:1px solid #dde3cf;'>
                     <td style='padding:8px 4px; color:{PRIMARY}; font-weight:600;'>Raw Records</td>
-                    <td style='padding:8px 4px;'>647,521</td>
+                    <td style='padding:8px 4px;'>650,094</td>
                 </tr>
                 <tr style='border-bottom:1px solid #dde3cf;'>
                     <td style='padding:8px 4px; color:{PRIMARY}; font-weight:600;'>Clean Records</td>
@@ -201,7 +201,7 @@ def render(base_dir: str):
             "Tree Debris Clean-Up Request", 
             "Traffic Signal Out Complaint"
         ],
-        "Records": ["327,507", "180,460", "77,202", "59,385"],
+        "Records": ["317,589", "222,722", "60,441", "49,342"],
         "Icon": ["report_problem", "lightbulb", "nature_people", "traffic"],
     }
 

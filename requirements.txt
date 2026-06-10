@@ -1,0 +1,14 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+torch
+torch-geometric
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+scipy
+geopandas
+shapely
+lifelines
+scikit-survival
